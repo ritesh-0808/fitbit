@@ -4,7 +4,16 @@ Problem Statement-
 
     To build a regression model to predict the calories burnt based on the given indicators in the training data. 
     
-    architecture 
+    
+![image](https://user-images.githubusercontent.com/76938173/162603025-714bbb9b-ecd0-4c58-bc54-a0be48818f79.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162603002-14d7f117-a834-4071-a565-49bb4d0e20a0.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162603032-7dcd1930-af4b-476f-b71c-7946cdd3042e.png)
+
+
+    
+Project Architecture 
 
 ![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
 
