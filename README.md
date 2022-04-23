@@ -89,7 +89,10 @@ Exploratory Data Analysis
 
 
 
-https://user-images.githubusercontent.com/76938173/164885846-1d21c5cf-f710-41ae-8db2-27bdbba348fd.mp4
+https://user-images.githubusercontent.com/76938173/164887786-47f4796f-2ea6-4ce2-b797-f443f17ee653.mp4
+
+
+ 
 
 
 Prediction  Logs
