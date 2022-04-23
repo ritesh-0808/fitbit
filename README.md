@@ -226,31 +226,6 @@ Prediction -
      5) Once the prediction is made for all the clusters, the predictions along with the original names before label encoder are saved in a CSV file at a given location and the location is returned to the client.
  
 
-requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
-
-![image](https://user-images.githubusercontent.com/76938173/162376078-d0e91df8-e89c-4e18-9b88-ca03f7b58902.png)
-
-main.py is the entry point of our application, where the flask server starts. 
-
-![image](https://user-images.githubusercontent.com/76938173/162376590-cf1edb79-8763-474c-a5f7-797928f90d94.png)
-
-This is the predictionFromModel.py file where the predictions take place based on the data we are giving input to the model.
-
-![image](https://user-images.githubusercontent.com/76938173/162376665-6b1d18b9-fd54-4fff-98a0-ee026695eb33.png)
-
-manifest.yml:- This file contains the instance configuration, app name, and build pack language.
-
-![image](https://user-images.githubusercontent.com/76938173/162376782-a0361867-8b81-4a8e-a0f4-18cf86ae30d4.png)
-
-Procfile :- It contains the entry point of the app.
-
-![image](https://user-images.githubusercontent.com/76938173/162376837-db80f1e3-2d8e-4bd2-9ac9-23ad92f2ce35.png)
-
-runtime.txt:- It contains the Python version number
-
-![image](https://user-images.githubusercontent.com/76938173/162376872-37b6ae6d-94d7-4d4a-ba29-5c8822543bf4.png)
-
-
 
 
 
